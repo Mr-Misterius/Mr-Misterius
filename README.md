@@ -1,210 +1,156 @@
-````markdown
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                 MR-MISTERIUS // PROFILE                      -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+# 🕷️ MR. MISTERIUS
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=MR.+MISTERIUS;CYBERSECURITY+ENTHUSIAST;LINUX+%7C+NETWORKING+%7C+PYTHON;ETHICAL+SECURITY+RESEARCH;WELCOME+TO+THE+MATRIX..." />
+</p>
 
-# 🛰️ `MR-MISTERIUS`
-
-### `// CYBERSPACE EXPLORER // LINUX // NETWORKING // SECURITY`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Initializing+Mr-Misterius...;Scanning+the+cyberspace...;Satellite+link+%5BONLINE%5D;Terminal+access+%5BGRANTED%5D;Welcome+to+my+digital+world." />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=SATELLITE%20NETWORK&fontColor=00FF9C&fontSize=28&animation=fadeIn" />
-
-</div>
+<p align="center">
+  <img src="https://github.com/Mr-Misterius.png" width="150" style="border-radius:50%">
+</p>
 
 ---
-
-## 🛰️ SATELLITE // ORBIT
-
-<div align="center">
 
 ```text
-                         🛰️
-                    .-────────-.
-                .-'              '-.
-              .'      ◉ EARTH       '.
-             /                        \
-            |     ░▒▓ CYBER GRID ▓▒░   |
-             \                        /
-              '.                    .'
-                '-.              .-'
-                    '──────────'
-                         ↻
-                   ORBIT: ACTIVE
-````
-
-**STATUS:** `ONLINE`   |   **SIGNAL:** `STABLE`   |   **MODE:** `STEALTH`
-
-</div>
-
----
-
-## 👤 WHOAMI
-
-```bash
-┌──(Mr-Misterius㉿cyberspace)-[~]
+┌──(Mr-Misterius㉿kali)-[~]
 └─$ whoami
 
-> Mr-Misterius
+Mr-Misterius
 
-┌──(Mr-Misterius㉿cyberspace)-[~]
+┌──(Mr-Misterius㉿kali)-[~]
 └─$ cat profile.txt
 
-Name       : Mr-Misterius
-OS         : Kali Linux
-Focus      : Cybersecurity • Networking • Linux
-Interests  : Ethical Hacking • CTF • Automation
-Status     : Learning • Building • Exploring
+Name     : MR. MISTERIUS
+Focus    : Cybersecurity & Technology
+OS       : Kali Linux
+Interests: Linux • Networking • Python • OSINT
+Status   : Learning & Building
 ```
+
+## ☠️ ABOUT ME
+
+> `Curiosity is the first step into cybersecurity.`
+
+* 🐧 Linux & Kali Linux enthusiast
+* 🌐 Networking learner
+* 🐍 Python & Bash scripting
+* 🔎 OSINT & security research
+* 🛡️ Ethical hacking / authorized security testing
+* 🧠 Always learning something new
 
 ---
 
-## ⚡ SKILLS & INTERESTS
+## ⚡ TECH STACK
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css" />
+---
 
-</div>
+## 🧠 CYBERSECURITY
 
 ```text
-[████████████████████] Linux
-[█████████████████░░░] Networking
-[████████████████░░░░] Python
-[███████████████░░░░░] Cybersecurity
-[██████████████░░░░░░] Automation
-[█████████████░░░░░░░] Web Technologies
+[██████████░░░░░░░░░░] Linux
+[█████████░░░░░░░░░░░] Networking
+[████████░░░░░░░░░░░░] Python
+[███████░░░░░░░░░░░░░] Bash
+[███████░░░░░░░░░░░░░] OSINT
+[██████░░░░░░░░░░░░░░] Security Research
 ```
 
 ---
 
-## 🌐 NETWORK // SATELLITE FEED
-
-```text
-        ┌──────────────────────────────────────┐
-        │          SATELLITE TELEMETRY         │
-        ├──────────────────────────────────────┤
-        │ LINK STATUS       : ● ONLINE         │
-        │ NETWORK           : SECURE           │
-        │ SIGNAL            : ██████████ 100%  │
-        │ ENCRYPTION        : ENABLED          │
-        │ SATELLITE         : ORBITING         │
-        │ SYSTEM            : OPERATIONAL      │
-        └──────────────────────────────────────┘
-```
-
----
-
-## 🖥️ TERMINAL
+## 🔥 CURRENTLY LEARNING
 
 ```bash
-$ sudo ./mr-misterius
+$ ls ~/learning/
 
-[+] Loading modules...
-[+] Initializing terminal...
-[+] Establishing satellite connection...
-[+] Synchronizing network...
-[+] Loading cybersecurity toolkit...
-
-████████████████████████████████ 100%
-
-[✓] SYSTEM READY
-[✓] SATELLITE LINK ACTIVE
-[✓] CONNECTION ESTABLISHED
-
-root@Mr-Misterius:~#
+01_networking/
+02_linux/
+03_python/
+04_cybersecurity/
+05_osint/
+06_security_tools/
 ```
 
 ---
 
-## 📡 CURRENT MISSION
+## 📊 GITHUB STATS
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🛰️ Explore     →   cyberspace              │
-│  🌐 Learn       →   networking               │
-│  🐧 Master      →   Linux                    │
-│  🛡️ Study       →   cybersecurity            │
-│  ⚙️ Build       →   useful tools             │
-│  🧠 Improve     →   every single day        │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Misterius&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" />
+</p>
 
----
-
-## 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Misterius&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Misterius&theme=dark&hide_border=true&background=000000" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Misterius&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-
-<!-- Enable the snake workflow in your repository before using this -->
-
-<img src="https://raw.githubusercontent.com/Mr-Misterius/Mr-Misterius/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mr-Misterius/Mr-Misterius/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🔐 PHILOSOPHY
+## 🕶️ TERMINAL
 
-<div align="center">
+```bash
+┌──(Mr-Misterius㉿kali)-[~/profile]
+└─$ sudo ./mission.sh
+
+[+] Initializing...
+[+] Loading knowledge...
+[+] Studying networks...
+[+] Exploring Linux...
+[+] Writing code...
+[+] Researching security...
+
+[✓] Mission continues.
+```
+
+---
+
+## 🎯 GOALS
 
 ```text
-"Understand the system.
-Understand the network.
-Understand the code.
-Then build something better."
-
-                — MR-MISTERIUS
+[✓] Learn Linux
+[✓] Learn Networking
+[✓] Learn Python
+[ ] Master Cybersecurity
+[ ] Build Security Tools
+[ ] Contribute to Open Source
+[ ] Never Stop Learning
 ```
 
-</div>
-
 ---
 
-## 📡 CONNECT
+## 🌐 CONNECT
 
-<div align="center">
-
-<a href="https://github.com/Mr-Misterius">
-<img src="https://img.shields.io/badge/GitHub-Mr--Misterius-00FF9C?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Mr-Misterius">
+    <img src="https://img.shields.io/badge/GitHub-Mr--Misterius-00FF41?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</p>
 
 ---
-
-<div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║              🛰️ SIGNAL TERMINATED 🛰️                ║
-║                                                      ║
-║       MR-MISTERIUS // KEEP EXPLORING                ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       "THE SYSTEM IS ONLY AS STRONG         ║
+║        AS THE KNOWLEDGE BEHIND IT."         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&animation=fadeIn" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Misterius&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+</p>
 
-</div>
-```
+### ⚠️ DISCLAIMER
+
+**Cybersecurity content is intended for education, ethical research, and authorized testing only.**
+
