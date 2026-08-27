@@ -1,107 +1,210 @@
+````markdown
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                 MR-MISTERIUS // PROFILE                      -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blackout&color=0:000000,100:ff0000&height=220&section=header&text=UNAUTHORIZED%20ACCESS&fontColor=ff0000&fontSize=38&fontAlignY=38&animation=twinkling&desc=SYSTEM%20BREACHED%20BY%20MR-MISTERIUS&descAlignY=58&descSize=16&descColor=ff0000" width="100%"/>
+# 🛰️ `MR-MISTERIUS`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=root%40kali%3A~%23+ssh+mr-misterius%40localhost;Permission+denied...+retrying;Access+GRANTED.+Welcome%2C+operative." />
+### `// CYBERSPACE EXPLORER // LINUX // NETWORKING // SECURITY`
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Initializing+Mr-Misterius...;Scanning+the+cyberspace...;Satellite+link+%5BONLINE%5D;Terminal+access+%5BGRANTED%5D;Welcome+to+my+digital+world." />
 
 <br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=%3E_+MR-MISTERIUS" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CLEARANCE-BLACK__HAT-ff0000?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STATUS-UNTRACEABLE-ff0000?style=for-the-badge&logo=protonvpn&logoColor=white&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=Mr-Misterius&style=for-the-badge&color=ff0000&labelColor=000000&label=INTRUSIONS" />
-</p>
-
-<div align="center">
-
-```
-  ▄████▄   ██▓    ▄▄▄        ██████   ██████ ██▓ ███▄    █  ▄████
- ▒██▀ ▀█  ▓██▒   ▒████▄    ▒██    ▒ ▒██    ▒ ▓██▒ ██ ▀█   █ ██▒ ▀█▒
- ▒▓█    ▄ ▒██░   ▒██  ▀█▄  ░ ▓██▄   ░ ▓██▄   ▒██▒▓██  ▀█ ██▒▒██░▄▄▄░
- ▒▓▓▄ ▄██▒▒██░   ░██▄▄▄▄██   ▒   ██▒  ▒   ██▒░██░▓██▒  ▐▌██▒░▓█  ██▓
- ▒ ▓███▀ ░░██████▒▓█   ▓██▒▒██████▒▒▒██████▒▒░██░▒██░   ▓██░░▒▓███▀▒
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=SATELLITE%20NETWORK&fontColor=00FF9C&fontSize=28&animation=fadeIn" />
 
 </div>
 
 ---
 
-### `> access_log.sh --tail`
+## 🛰️ SATELLITE // ORBIT
+
+<div align="center">
+
+```text
+                         🛰️
+                    .-────────-.
+                .-'              '-.
+              .'      ◉ EARTH       '.
+             /                        \
+            |     ░▒▓ CYBER GRID ▓▒░   |
+             \                        /
+              '.                    .'
+                '-.              .-'
+                    '──────────'
+                         ↻
+                   ORBIT: ACTIVE
+````
+
+**STATUS:** `ONLINE`   |   **SIGNAL:** `STABLE`   |   **MODE:** `STEALTH`
+
+</div>
+
+---
+
+## 👤 WHOAMI
 
 ```bash
-[root@ghost ~]# whoami
-> mr-misterius
+┌──(Mr-Misterius㉿cyberspace)-[~]
+└─$ whoami
 
-[root@ghost ~]# cat identity.enc
-{
-  "alias"      : "Mr. Misterius",
-  "clearance"  : "root",
-  "location"   : "Bangladesh :: [REDACTED]",
-  "specialty"  : ["Exploitation", "Reverse Engineering", "Web Dev"],
-  "status"     : "GHOST_MODE :: ACTIVE",
-  "motto"      : "There is no patch for human stupidity."
-}
+> Mr-Misterius
 
-[root@ghost ~]# _
+┌──(Mr-Misterius㉿cyberspace)-[~]
+└─$ cat profile.txt
+
+Name       : Mr-Misterius
+OS         : Kali Linux
+Focus      : Cybersecurity • Networking • Linux
+Interests  : Ethical Hacking • CTF • Automation
+Status     : Learning • Building • Exploring
 ```
 
-### `> arsenal --list`
+---
+
+## ⚡ SKILLS & INTERESTS
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ff0000)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff0000)
-![Kali](https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ff0000)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ff0000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000)
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css" />
 
 </div>
 
-### `> tracking_target.exe`
+```text
+[████████████████████] Linux
+[█████████████████░░░] Networking
+[████████████████░░░░] Python
+[███████████████░░░░░] Cybersecurity
+[██████████████░░░░░░] Automation
+[█████████████░░░░░░░] Web Technologies
+```
+
+---
+
+## 🌐 NETWORK // SATELLITE FEED
+
+```text
+        ┌──────────────────────────────────────┐
+        │          SATELLITE TELEMETRY         │
+        ├──────────────────────────────────────┤
+        │ LINK STATUS       : ● ONLINE         │
+        │ NETWORK           : SECURE           │
+        │ SIGNAL            : ██████████ 100%  │
+        │ ENCRYPTION        : ENABLED          │
+        │ SATELLITE         : ORBITING         │
+        │ SYSTEM            : OPERATIONAL      │
+        └──────────────────────────────────────┘
+```
+
+---
+
+## 🖥️ TERMINAL
+
+```bash
+$ sudo ./mr-misterius
+
+[+] Loading modules...
+[+] Initializing terminal...
+[+] Establishing satellite connection...
+[+] Synchronizing network...
+[+] Loading cybersecurity toolkit...
+
+████████████████████████████████ 100%
+
+[✓] SYSTEM READY
+[✓] SATELLITE LINK ACTIVE
+[✓] CONNECTION ESTABLISHED
+
+root@Mr-Misterius:~#
+```
+
+---
+
+## 📡 CURRENT MISSION
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  🛰️ Explore     →   cyberspace              │
+│  🌐 Learn       →   networking               │
+│  🐧 Master      →   Linux                    │
+│  🛡️ Study       →   cybersecurity            │
+│  ⚙️ Build       →   useful tools             │
+│  🧠 Improve     →   every single day        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+## 📊 GITHUB TELEMETRY
 
 <div align="center">
 
-<img src="assets/satellite-orbit.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Misterius&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
 
-</div>
+<br>
 
-### `> uplink --connect`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=ff0000)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000)](#)
-[![Twitter](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=ff0000)](#)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Misterius&theme=dark&hide_border=true&background=000000" />
 
 </div>
 
 ---
 
-<details>
-<summary align="center">☠️ <b>classified_payload.enc</b> (click to decrypt)</summary>
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-```
-Q29uZ3JhdHVsYXRpb25zISBZb3UgZm91bmQgdGhlIHNlY3JldC4gLSBNciBNaXN0ZXJpdXM=
-```
+<!-- Enable the snake workflow in your repository before using this -->
 
-*Base64 encoded. Decrypt at your own risk.*
+<img src="https://raw.githubusercontent.com/Mr-Misterius/Mr-Misterius/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-</details>
+---
+
+## 🔐 PHILOSOPHY
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blackout&color=0:ff0000,100:000000&height=100&section=footer"/>
 
-<sub>⚠️ THIS PROFILE IS MONITORED. UNAUTHORIZED CLONING WILL BE LOGGED. ⚠️</sub>
+```text
+"Understand the system.
+Understand the network.
+Understand the code.
+Then build something better."
+
+                — MR-MISTERIUS
+```
+
 </div>
 
+---
+
+## 📡 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Mr-Misterius">
+<img src="https://img.shields.io/badge/GitHub-Mr--Misterius-00FF9C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║              🛰️ SIGNAL TERMINATED 🛰️                ║
+║                                                      ║
+║       MR-MISTERIUS // KEEP EXPLORING                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&animation=fadeIn" />
+
+</div>
+```
