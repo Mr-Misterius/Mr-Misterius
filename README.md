@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://github.com/Mr-Misterius.png" width="150" style="border-radius:50%">
 </p>
+<p align="center">
+  <img src="https://github.com/Mr-Misterius/Mr-Misterius/blob/main/satellite-orbit.svg" width="150" style="border-radius:50%">
+</p>
 
 ---
 
