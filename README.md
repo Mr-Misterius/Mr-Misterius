@@ -93,7 +93,7 @@ $ ls ~/learning/
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Misterius/Mr-Misterius/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Mr-Misterius/Mr-Misterius/blob/main/satellite-orbit.svg" />
 </p>
 
 ---
