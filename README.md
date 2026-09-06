@@ -9,7 +9,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/Mr-Misterius/Mr-Misterius/blob/main/anonymous%20GIF.gif" width="1500" style="border-radius:50%">
+  <img src="https://github.com/Mr-Misterius/Mr-Misterius/blob/main/anonymous%20GIF.gif" width="700" style="border-radius:50%">
 </p>
 ---
 
