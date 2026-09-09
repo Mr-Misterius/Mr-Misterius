@@ -81,7 +81,7 @@ $ ls ~/learning/
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Misterius&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" />
+  <img src="https://github.com/Mr-Misterius/PFA/blob/main/wearelegend.mp4" />
 </p>
 
 <p align="center">
